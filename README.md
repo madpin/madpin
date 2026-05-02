@@ -98,21 +98,18 @@ A pile more (75+ public repos) lives at [github.com/madpin?tab=repositories](htt
 ### 📈 GitHub at a glance
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=madpin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="madpin's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madpin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="madpin's top languages" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madpin&theme=tokyonight" alt="madpin's profile summary" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madpin&theme=tokyonight" alt="madpin's languages by repo count" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madpin&theme=tokyonight&hide_border=true" alt="madpin's GitHub streak" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madpin&theme=tokyonight" alt="madpin's languages by commits" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=madpin&theme=tokyonight&hide_border=true" alt="madpin's GitHub streak" />
 </p>
 
-<details>
-<summary>📊 Contribution activity graph</summary>
-<br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madpin&theme=tokyo-night&hide_border=true&radius=8" alt="madpin's contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madpin&theme=tokyo-night&hide_border=true&radius=8&days=365&area=true&custom_title=Contributions%20across%20the%20last%2012%20months" alt="madpin's monthly contribution graph" />
 </p>
-</details>
 
 ---
 
