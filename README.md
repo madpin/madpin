@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thiago 👋</h1>
 
 <p align="center">
-  <strong>Staff Software Engineer @ Indeed</strong> · Dublin, Ireland 🇮🇪 · São Paulo at heart 🇧🇷
+  <strong>Principal Software Engineer @ Indeed</strong> · Dublin, Ireland 🇮🇪 · São Paulo at heart 🇧🇷
 </p>
 
 <p align="center">
