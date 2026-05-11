@@ -38,7 +38,7 @@ philosophy:  "Don't delegate understanding."
 | Project | What it is |
 |---|---|
 | 🎙️ [**Gravai**](https://github.com/madpin/Gravai) | Privacy-first macOS app — multi-source audio capture, on-device Whisper transcription, AI meeting summaries via local LLMs. *Rust.* |
-| 📖 [**epublate**](https://github.com/madpin/epublate) | Translates ePub story books with two LLMs and a shared *lore bible* so character names and worldbuilding stay consistent across an entire series. *Python TUI.* |
+| 📖 [**epublate**](https://github.com/madpin/epublate-js) | Translates ePub story books with two LLMs and a shared *lore bible* so character names and worldbuilding stay consistent across an entire series. *Pretty UI.* |
 | 🕸️ [**NexusDocs**](https://github.com/madpin/NexusDocs) | Topology-aware knowledge-graph documentation — turns services, teams, and policies into a continuous-zoom narrative tailored to who's reading. *FastAPI · React · Neo4j.* |
 | 📊 [**etorotui**](https://github.com/madpin/etorotui) | Terminal UI for eToro: copy-trading dashboards, look-through aggregation, drawdown curves — all in your shell. *Python · Textual.* |
 | 🪄 [**cellmage**](https://github.com/madpin/cellmage) | Jupyter magic commands for LLMs — chat, personas, snippets, ambient mode, plus Jira / Confluence / GitHub context injection. *On PyPI.* |
